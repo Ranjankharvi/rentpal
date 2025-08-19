@@ -40,7 +40,7 @@ Version Control: Git & GitHub
 
 🚀 Getting Started
 🔧 1. Clone the Repository
-git clone https://github.com/your-username/rentpal.git
+git clone https://github.com/Ranjankharvi/rentpal.git
 cd rentpal
 
 📦 2. Install Dependencies
