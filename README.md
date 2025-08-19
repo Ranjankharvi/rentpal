@@ -6,6 +6,8 @@ The platform acts as a publishing and discovery medium – renters and owners co
 
 It is designed to encourage resource sharing, cost efficiency, and sustainability by enabling peer-to-peer rentals.
 
+
+
 ✨ Features
 
 🔑 User Authentication – Secure signup & login.
@@ -20,6 +22,9 @@ It is designed to encourage resource sharing, cost efficiency, and sustainabilit
 
 📱 Responsive Design – Accessible across desktop and mobile devices.
 
+
+
+
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, Bootstrap, JavaScript
@@ -29,6 +34,9 @@ Backend: Python (Flask) (or Django if applicable)
 Database: MySQL / SQLite (depending on implementation)
 
 Version Control: Git & GitHub
+
+
+
 
 🚀 Getting Started
 🔧 1. Clone the Repository
